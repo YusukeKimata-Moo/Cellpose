@@ -1,4 +1,4 @@
-# Cell Image Process with Cellpose
+# Cell Image Processing with Cellpose
 
 ## Overview
 
