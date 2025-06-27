@@ -39,10 +39,11 @@ It is designed to run on Google Colaboratory, enabling high-speed processing usi
 │   ├── image.tif
 │
 ├── output/               # Directory for output results
-│   ├── image_deblured.tif
+│   ├── image_label.tif
 │   ├── image_denoised.tif
-│   ├── image_restored.tif
-│   └── image_upsampled.tif
+│   ├── image_deblured.tif
+│   ├── image_upsampled.tif
+│   └── image_restored.tif
 └── README.md
 ```
 
