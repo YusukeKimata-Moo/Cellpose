@@ -26,7 +26,7 @@ It is designed to run on Google Colaboratory, enabling high-speed processing usi
 ### 3. Segmentation with Cellpose-SAM
 
 - **`Cellpose-SAM.ipynb`**
-- Higher precision cell segmentation by Cellpose-SAM (https://github.com/MouseLand/cellpose).
+- Higher precision cell segmentation by Cellpose-SAM.
 
 ## Directory Structure
 
