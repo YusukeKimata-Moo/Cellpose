@@ -1,4 +1,4 @@
-# Cell Image Analysis Project based on Cellpose
+# Cell Image Process with Cellpose
 
 ## Overview
 
