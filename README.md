@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a collection of Jupyter Notebooks for segmenting and restoring microscopy images using [Cellpose](https://github.com/MouseLand/cellpose) and related models.
+This project is a collection of Notebooks for restoration and segmentaion of microscopic images using [Cellpose](https://github.com/MouseLand/cellpose) and related models.
 
 It is designed to run on Google Colaboratory, enabling high-speed processing using GPUs.
 
