@@ -43,7 +43,7 @@ It is designed to run on Google Colaboratory, enabling high-speed processing usi
 │   ├── image_denoised.tif
 │   ├── image_deblured.tif
 │   ├── image_upsampled.tif
-│   └── image_restored.tif
+│   └── image_oneclick.tif
 └── README.md
 ```
 
